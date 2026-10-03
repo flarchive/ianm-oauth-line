@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of ianm/oauth-line.** Not for installation: use [Packagist](https://packagist.org/packages/ianm/oauth-line) or the [upstream repository](https://github.com/imorland/flarum-ext-oauth-line).
 
-**0** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/ianm-oauth-line/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.3.0`
+**5** versions archived · Latest: [`0.1.4`](https://github.com/flarchive/ianm-oauth-line/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.3.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-10-18 | `^1.3.0` | [Browse](https://github.com/flarchive/ianm-oauth-line/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-10-19 | `^1.3.0` | [Browse](https://github.com/flarchive/ianm-oauth-line/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-10-19 | `^1.3.0` | [Browse](https://github.com/flarchive/ianm-oauth-line/tree/archive/v0.1.2) |
+| `0.1.3` | 2022-10-28 | `^1.3.0` | [Browse](https://github.com/flarchive/ianm-oauth-line/tree/archive/v0.1.3) |
+| `0.1.4` | 2022-11-16 | `^1.3.0` | [Browse](https://github.com/flarchive/ianm-oauth-line/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/ianm-oauth-line.json](https://github.com/flarchive/archive-index/blob/main/packages/ianm-oauth-line.json)
 
